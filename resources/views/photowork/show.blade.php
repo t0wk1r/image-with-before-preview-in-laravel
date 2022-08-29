@@ -21,3 +21,5 @@
 
 
 </table>
+
+<a href="{{url('/imagets')}}">All Data</a>

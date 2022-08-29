@@ -18,4 +18,5 @@ Route::get('/', function () {
     return view('photowork.index');
 });
 
+
 Route::resource('imagets', ImagetController::class);

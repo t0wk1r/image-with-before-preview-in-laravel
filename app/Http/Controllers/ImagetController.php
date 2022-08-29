@@ -83,6 +83,7 @@ class ImagetController extends Controller
         $imaget->update($data);
 
         return redirect()->route('imagets.index');
+        // return back();
     }
 
     /**

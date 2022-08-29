@@ -26,3 +26,5 @@
     @endforeach
 
 </table>
+
+<a href="{{url('/')}}">Home/Create</a>

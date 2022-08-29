@@ -6,3 +6,5 @@
     <input type="file" name="photo"><br>
     <input type="submit" Value="Update">
 </form>
+
+<a href="{{url('/imagets')}}">All Data</a>
