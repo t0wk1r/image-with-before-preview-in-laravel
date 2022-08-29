@@ -1,12 +1,12 @@
 <h1 align="center">Important Command</h1>
-1. git clone https://github.com/t0wk1r/image-with-before-preview-in-laravel.git
-2. composer install
-3. create .env file and copy all data in .env.example
-4. create a database name and use this database name in .env file (DB_DATABASE=yourdbname)
-5. php artisan key:generate 
-6. php artisan migrate
-7. php artisan storage:link
-8. php artisan serve
+1. git clone https://github.com/t0wk1r/image-with-before-preview-in-laravel.git </br>
+2. composer install </br>
+3. create .env file and copy all data in .env.example </br>
+4. create a database name and use this database name in .env file  (DB_DATABASE=yourdbname) </br>
+5. php artisan key:generate  </br>
+6. php artisan migrate </br>
+7. php artisan storage:link </br>
+8. php artisan serve </br>
 
 
 
